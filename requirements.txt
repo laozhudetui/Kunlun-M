@@ -10,3 +10,4 @@ esprima==4.0.1
 jsbeautifier==1.10.2
 bs4
 django
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
